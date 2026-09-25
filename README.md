@@ -1,28 +1,42 @@
-## Hi there 👋
+## Hi, I'm Eva 👋
 
-I'm starting a new career path with the great Holberton School in cohort C30.
+- 🎓 Software engineering student at **Holberton School** (Toulouse campus, cohort C30, remote/Virtual Campus)
+- 🔐 Currently focusing on **cybersecurity** — actively looking for a work-study position (alternance) starting March 2027, in the Toulouse area or remote
+- 🛠️ Background: 10+ years in aerospace supply chain (Airbus, Collins Aerospace, Safran) before transitioning into tech
 
-During the next few months, I'll learn how to be an efficient and responsible Fullstack Developper.
+## 🚀 Tech Stack
 
-:dart: As I intend to obtain a Master degree at the end of this journey, I'll do my best to find a company who is willing to help me grow by helping it to develop.
+**Languages**
 
-:world_map: Distance won't even be an issue as, for the first time, my cohort learn as a Virtual Campus.
+![C](https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4eaa25?logo=gnubash&logoColor=white&style=for-the-badge)
 
-:muscle: Being able to manage project successfully while working remote is indeed one of my asset.
+**Tools & Environment**
 
-<img width="1200" height="675" alt="644b94071ceca7d51d139d6f_Holberton actual digital school (1)" src="https://github.com/user-attachments/assets/1ad8f12e-91a2-448a-9296-d6adcf0947db" />
+![Linux](https://img.shields.io/badge/Linux-fcc624?logo=linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 
-<!--
-**EvaGLN/EvaGLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I've built
 
-Here are some ideas to get you started:
+- 🐚 [**Simple Shell**](https://github.com/EvaGLN/holbertonschool-low_level_programming) — a UNIX command-line interpreter written in C, built with a teammate (process creation, environment variables, zero Valgrind leaks)
+- 🖨️ [**_printf**](https://github.com/EvaGLN/holbertonschool-low_level_programming) — a reimplementation of the C standard library `printf` function
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvaGLN&theme=tokyonight" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvaGLN&theme=tokyonight" alt="Top languages by commit" />
+
+<img src="https://streak-stats.demolab.com/?user=EvaGLN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvaGLN&theme=tokyonight" alt="Profile details" />
+
+</div>
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/eva-galiano-pro/)
