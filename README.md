@@ -1,7 +1,7 @@
 ## Hi, I'm Eva 👋
 
 - 🎓 Software engineering student at **Holberton School** (Toulouse campus, cohort C30, remote/Virtual Campus)
-- 🔐 Currently focusing on **cybersecurity** — actively looking for a work-study position (alternance) starting March 2027, in the Toulouse area or remote
+- 🔐 Currently focusing on **Agentic AI** and cybersecurity — actively looking for a work-study position starting March 2027, in the Toulouse area or remote
 - 🛠️ Background: 10+ years in aerospace supply chain (Airbus, Collins Aerospace, Safran) before transitioning into tech
 
 ## 🚀 Tech Stack
