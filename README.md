@@ -11,6 +11,9 @@
 ![C](https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4eaa25?logo=gnubash&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
 
 **Tools & Environment**
 
@@ -20,7 +23,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 
 ## What I've built
-
+- 🧮 [**HBntory**](https://github.com/EvaGLN/HBntory) — an inventory management platform for a fictional retail company with several branches and an AI interface to check available stock
 - 🐚 [**Simple Shell**](https://github.com/EvaGLN/holbertonschool-low_level_programming) — a UNIX command-line interpreter written in C, built with a teammate (process creation, environment variables, zero Valgrind leaks)
 - 🖨️ [**_printf**](https://github.com/EvaGLN/holbertonschool-low_level_programming) — a reimplementation of the C standard library `printf` function
 
@@ -39,4 +42,4 @@
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/eva-galiano-pro/)
+[LinkedIn](https://www.linkedin.com/in/evagln713/)
